@@ -4,6 +4,7 @@ class FieldIndexError(IndexError):
     def __init__(self, messege='Введено значение за границами игрового поля!'):
         super().__init__(messege)
 
+
 class CellOccupiedError(Exception):
     """ Выбрасывается, если выбрано значение уже занято. """
 
