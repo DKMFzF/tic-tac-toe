@@ -45,8 +45,8 @@ python game.py
 ```
 
 ### Автор  
-** [Kirill Doroshev (DKMFzF)](https://vk.com/dkmfzf ) **
+** [Дорошев Кирилл (DKMFzF)](https://vk.com/dkmfzf ) **
 
 ### License
 
-This project is licensed under the MIT license
+Этот проект лицензирован по лицензии MIT
